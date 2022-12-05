@@ -1,5 +1,7 @@
 {
     "files.associations": {
+        "\"*.cpp\"": "\"c++\"",
+        "*.cpp": "cpp",
         "array": "cpp",
         "atomic": "cpp",
         "bit": "cpp",
@@ -49,6 +51,7 @@
         "typeinfo": "cpp",
         "iomanip": "cpp",
         "sstream": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "cstring": "cpp"
     }
 }

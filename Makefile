@@ -1,4 +1,4 @@
-test:
+t:
 	g++ -g -I include ./src/*.cpp ./main.cpp -o main -lsfml-graphics -lsfml-window -lsfml-system
 
 # disassemble

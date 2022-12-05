@@ -11,7 +11,6 @@ namespace sn
             
             void create();
             void setPixel(int x, int y, sf::Color color);
-
     };
 };
 
